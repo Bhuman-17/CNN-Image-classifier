@@ -135,10 +135,4 @@ A cover image (`screenshot.png`) is included to help your README look good in th
 
 For personal/educational use. Replace with your preferred license if publishing.
 
----
-
-## ✅ Verified Dependencies
-
-See `requirements.txt` in this repo for tested versions.
-
-```
+streamlit app link : https://bhuman-17-cnn-image-classifier-app-sguyni.streamlit.app/
