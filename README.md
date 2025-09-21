@@ -140,8 +140,3 @@ For personal/educational use. Replace with your preferred license if publishing.
 See `requirements.txt` in this repo for tested versions.
 
 ```
-
----
-
-Would you also like me to give you a ready-made **`predict.py`** file (outside Jupyter) so you can test your trained model on any image without opening the notebook?
-```
