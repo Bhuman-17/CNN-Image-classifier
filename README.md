@@ -107,7 +107,9 @@ Depending on your exact architecture/epochs/augmentation, a simple CNN on CIFAR-
 
 A cover image (`screenshot.png`) is included to help your README look good in the repo. Replace it later with your own training curves, confusion matrix, or sample predictions.
 
-![Project Screenshot]<img width="773" height="826" alt="image" src="https://github.com/user-attachments/assets/ab4bb7cb-0eb4-4aad-adc4-ddbe0005c037" />
+[Project Screenshot]<img width="773" height="826" alt="image" src="https://github.com/user-attachments/assets/ab4bb7cb-0eb4-4aad-adc4-ddbe0005c037" />
+<img width="736" height="748" alt="image" src="https://github.com/user-attachments/assets/e6bc0044-c2dc-4cd7-bbb0-b02903f3dba3" />
+
 
 
 ---
